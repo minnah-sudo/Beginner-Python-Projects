@@ -82,3 +82,13 @@ Beginner Python project.
 
 
 
+Future Improvements
+
+
+
+\- Add search functionality to find books by title or author.
+
+\- Improve book record management.
+
+\- Add borrowing and return status tracking, if not already implemented.
+
