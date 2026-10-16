@@ -50,7 +50,7 @@ CarServiceTracker/
 
 
 
-&#x20;How to Run
+How to Run
 
 
 
@@ -58,17 +58,17 @@ CarServiceTracker/
 
 2\. Download or clone this repository.
 
-3\. Open the `CarServiceTracker` folder.
+3\. Open the CarServiceTracker folder.
 
 4\. Run the following command in a terminal:
 
 
 
-&#x20;  python CarServiceTracker.py
+  python CarServiceTracker.py
 
 
 
-&#x20;  If your system uses the Python launcher, you can use `py CarServiceTracker.py` instead.
+&#x20;  If your system uses the Python launcher, you can use py CarServiceTracker.py instead.
 
 
 
@@ -87,4 +87,8 @@ Project Status
 Completed beginner-level Python project.
 
 
+Future Improvements
 
+- Add reminders for upcoming vehicle maintenance.
+- Improve organization of service history.
+- Include additional vehicle details, if not already supported.
